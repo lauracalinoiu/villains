@@ -43,7 +43,7 @@
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
-                                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Big" id="xxj-T3-4hd">
+                                                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" image="Blofeld" id="xxj-T3-4hd">
                                                     <rect key="frame" x="15" y="0.0" width="54" height="43"/>
                                                     <autoresizingMask key="autoresizingMask"/>
                                                 </imageView>
@@ -72,6 +72,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Big" width="100" height="80"/>
+        <image name="Blofeld" width="100" height="80"/>
     </resources>
 </document>
